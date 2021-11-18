@@ -1,0 +1,18 @@
+{
+  "name": "neosoft",
+  "version": "1.0.0",
+  "description": "mynewpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "neosoft"
+  },
+  "repository": {
+    "type": "git",
+    "url": "neosoctpack"
+  },
+  "keywords": [
+    "neosoftkey"
+  ],
+  "author": "KOMALneosoft",
+  "license": "ISC"
+}
